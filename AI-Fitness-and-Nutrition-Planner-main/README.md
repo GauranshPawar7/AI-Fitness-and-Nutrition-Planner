@@ -120,7 +120,7 @@ The application will open at `http://localhost:8501`
 ---
 ## 👨‍💻 Author
 
-**Sabarish R** — Full-Stack AI Developer
+**Gauransh Pawar** 
 
 - LinkedIn: [Sabarish R](https://www.linkedin.com/in/sabarishr08/)
 
