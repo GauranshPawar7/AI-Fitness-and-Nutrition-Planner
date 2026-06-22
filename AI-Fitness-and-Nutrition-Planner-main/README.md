@@ -122,6 +122,5 @@ The application will open at `http://localhost:8501`
 
 **Gauransh Pawar** 
 
-- LinkedIn: [Sabarish R](https://www.linkedin.com/in/sabarishr08/)
 
 ---
